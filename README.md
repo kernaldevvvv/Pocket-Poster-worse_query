@@ -12,14 +12,14 @@
   </a>
 </div>
 ## Supported Versions
-**iOS 27.0
-**iOS 27.0.1
-**iOS 27.2.1
-**iOS 27.2.2
+iOS 27.0
+iOS 27.0.1
+iOS 27.2.1
+iOS 27.2.2
 ## Unsupported Versions
-**iOS 27.0 (developer beta 1-4) [bad_query only]
-**iOS 27.2 (release version) [a patch of worse_query]
-**iOS 27.3 (betas and more) [full patch but more exploits on newer versions are currently unknown]
+iOS 27.0 (developer beta 1-4) [bad_query only]
+iOS 27.2 (release version) [a patch of worse_query]
+iOS 27.3 (betas and more) [full patch but more exploits on newer versions are currently unknown]
 
 
 ## Getting Started
