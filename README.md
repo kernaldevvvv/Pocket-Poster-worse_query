@@ -6,8 +6,6 @@
 <div align="center">
   <h1><b>Pocket Poster</b></h1>
   <p><i>Custom PosterBoard Wallpapers for iOS 17+</i></p>
-   <img src="https://raw.githubusercontent.com/CelloSerenity/altdirect/refs/heads/main/assets/png/AltSource_White.png" width="150">
-  </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/leminlimez/Pocket-Poster/releases/latest/download/pocket_poster.ipa" target="_blank">
    <img src="https://raw.githubusercontent.com/CelloSerenity/altdirect/refs/heads/main/assets/png/Download_White.png" width="150">
