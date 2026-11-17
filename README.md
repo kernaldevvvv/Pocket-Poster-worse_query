@@ -2,7 +2,8 @@
 Pocket Poster
 Custom PosterBoard Wallpapers for iOS 17+
 
-     
+     <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/f7da0a21-02f5-404b-a31e-d0a6132ed7a1" />
+
 Getting Started
 Since there is no way to read files currently, you will need a computer to get the App Hash/UUID.
 
