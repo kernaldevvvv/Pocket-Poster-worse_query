@@ -6,7 +6,6 @@
 <div align="center">
   <h1><b>Pocket Poster</b></h1>
   <p><i>Custom PosterBoard Wallpapers for iOS 17+</i></p>
-  <a href="https://celloserenity.github.io/altdirect/?url=https://raw.githubusercontent.com/SerStars/Nugget-Wallpapers/refs/heads/main/other/pocketposter_source.json" target="_blank">
    <img src="https://raw.githubusercontent.com/CelloSerenity/altdirect/refs/heads/main/assets/png/AltSource_White.png" width="150">
   </a>
   &nbsp;&nbsp;&nbsp;
