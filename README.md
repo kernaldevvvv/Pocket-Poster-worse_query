@@ -11,11 +11,13 @@
    <img src="https://raw.githubusercontent.com/CelloSerenity/altdirect/refs/heads/main/assets/png/Download_White.png" width="150">
   </a>
 </div>
+
 ## Supported Versions
 - **iOS 27.0**
 - **iOS 27.0.1**
 - **iOS 27.2.1**
 - **iOS 27.2.2**
+
 ## Unsupported Versions
 - **iOS 27.0 (developer beta 1–4)** — `[bad_query only]`
 - **iOS 27.2 (release version)** — `[patched worse_query]`
