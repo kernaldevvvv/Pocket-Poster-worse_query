@@ -1,4 +1,5 @@
-
+<div align="center">
+   <img width="150" height="150"
 <img width="1024" height="1024" alt="pocket_poster_transparent" src="https://github.com/user-attachments/assets/6d3091a9-9aa3-4e49-9b88-d5ff90c0ae72" />
 </div>
 
