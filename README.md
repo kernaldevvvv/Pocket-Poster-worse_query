@@ -36,7 +36,6 @@ Open Pocket-Poster->Skip the tutorial->Open Pocket-Poster Settings->Click "Detec
 THIS IS A FORK PORTED TO IOS 27 WITH WORSE_QUERY THE OWNER OF POCKET-POSTER IS LIMINLIMEZ
 
 Community-made wallpapers can be found on the [official Cowabun.ga site][CowabungaWallpapersPage].
-<br>Join the [Cowabunga Discord Server][CowabungaDiscord] for additional help.
 
 ## Credits
 - Translations crowdsourced using [POEditor][POEditorJoin]. Thank you everyone who assisted in the translation effort!
