@@ -27,6 +27,12 @@
 Since worse_query is included you do not need Nugget for this fork of Pocket-Poster
 Open Pocket-Poster->Skip the tutorial->Open Pocket-Poster Settings->Click "Detect"->Wait->And when PosterBoard Hash found you are done
 
+## How to install?
+
+- LiveContainer
+- iloader
+- Sideloadly
+
 
 Community-made wallpapers can be found on the [official Cowabun.ga site][CowabungaWallpapersPage].
 <br>Join the [Cowabunga Discord Server][CowabungaDiscord] for additional help.
@@ -37,7 +43,7 @@ Community-made wallpapers can be found on the [official Cowabun.ga site][Cowabun
 - [dootskyre][dootskyreX] for the fallback shortcut
 - [Nathan][NathanGitHub] and [DuyKhanhTran][DuyKhanhTranGitHub] for the exploit
 - [SerStars][SerStarsX] for creating the website
-- [liminLlimez] - for making the original Pocket-Poster
+- [limenLimez] - for making the original Pocket-Poster
   
 [CowabungaWallpapersPage]: https://cowabun.ga/wallpapers
 [NuggetGitHub]: https://github.com/leminlimez/Nugget
