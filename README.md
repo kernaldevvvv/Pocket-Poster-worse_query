@@ -11,7 +11,6 @@
    <img src="https://raw.githubusercontent.com/CelloSerenity/altdirect/refs/heads/main/assets/png/Download_White.png" width="150">
   </a>
 </div>
-
 ## Supported Versions
 - **iOS 27.0**
 - **iOS 27.0.1**
