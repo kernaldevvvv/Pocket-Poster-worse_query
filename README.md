@@ -11,6 +11,7 @@
    <img src="https://raw.githubusercontent.com/CelloSerenity/altdirect/refs/heads/main/assets/png/Download_White.png" width="150">
   </a>
 </div>
+
 ## Supported Versions
 - **iOS 27.0**
 - **iOS 27.0.1**
@@ -32,6 +33,7 @@ Open Pocket-Poster->Skip the tutorial->Open Pocket-Poster Settings->Click "Detec
 - iloader
 - Sideloadly
 
+THIS IS A FORK PORTED TO IOS 27 WITH WORSE_QUERY THE OWNER OF POCKET-POSTER IS LIMINLIMEZ
 
 Community-made wallpapers can be found on the [official Cowabun.ga site][CowabungaWallpapersPage].
 <br>Join the [Cowabunga Discord Server][CowabungaDiscord] for additional help.
