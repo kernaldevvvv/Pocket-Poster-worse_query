@@ -5,7 +5,7 @@
 
 <div align="center">
   <h1><b>Pocket Poster</b></h1>
-  <p><i>Custom PosterBoard Wallpapers for iOS 27.0-27.2+</i></p>
+  <p><i>Custom PosterBoard Wallpapers for iOS 27.0-27.2.2+</i></p>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/dreamsidysikbeatsflstudio-prog/Pocket-Poster-worse_query-iOS-27-/releases/download/Latest/Pocket_Poster-worse_query.ipa" target="_blank">
    <img src="https://raw.githubusercontent.com/CelloSerenity/altdirect/refs/heads/main/assets/png/Download_White.png" width="150">
@@ -49,3 +49,4 @@ Community-made wallpapers can be found on the [official Cowabun.ga site][Cowabun
 [NathanGitHub]: https://github.com/verygenericname
 [DuyKhanhTranGitHub]: https://github.com/khanhduytran0
 [SerStarsX]: https://x.com/SerStars
+[LimenLimez] : https://github.com/leminlimez 
